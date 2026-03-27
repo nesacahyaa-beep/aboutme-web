@@ -1,26 +1,22 @@
-# 🌻 My Profile Website
+# 🌻 Tugas Pemrograman Web 1
 
-Hi! I'm Nesa Dwi Cahyani from Purbalingga ✨  
-This is my simple personal website where I share a little about me and things I love.
+Halo! Saya **Nesa Dwi Cahyani** dengan NIM H1H024024, Prodi Teknik Komputer, Universitas Jenderal Soedirman ✨  
+Website ini dibuat sebagai **tugas pengenalan diri** untuk mata kuliah Pemrograman Web 1. Di sini saya berbagi sedikit tentang diri saya dan hal-hal yang saya sukai.
 
-## 💫 About Me
-I enjoy exploring creative ideas and doing things that make me happy 🌈  
-I also love watching C-dramas and anime, and I'm a K-pop fan—yeah, this is my world 💫
+## 🎨 Fitur Tugas
+- 🌸 Desain sederhana dan soft aesthetic
+- ✨ Profil pribadi lengkap untuk pengenalan diri
+- ☁️ Layout bersih menggunakan HTML & CSS
 
-## 🎨 Features
-- 🌸 Cute and soft aesthetic design
-- ✨ Simple personal profile
-- ☁️ Clean layout with HTML & CSS
-
-## 🛠️ Built With
+## 🛠️ Dibuat Dengan
 - **HTML5**
-- **CSS3**
+- **CSS**
 
-## 🌐 Live Demo
-[Klik di sini untuk melihat website saya!](https://nesacahyaa-beep.github.io/aboutme-web/)
+## 🌐 Demo Live
+[Klik di sini untuk melihat website aboutme!](https://nesacahyaa-beep.github.io/aboutme-web/)
 
-## 💙 Notes
-This project is made for learning and fun ✨  
+## 💙 Catatan
+Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web 1✨  
 
 ---
-<p align="center">Made with 💖 by Nesa</p>
+<p align="center">Made With💖 by Nesa</p>
