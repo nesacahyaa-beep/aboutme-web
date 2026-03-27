@@ -5,7 +5,7 @@ This is my simple personal website where I share a little about me and things I 
 
 ## 📸 Preview
 <p align="center">
-  <img src="./preview.png" width="100%" alt="Screenshot Website Nesa">
+  <img src="./preview.png.png" width="100%" alt="Screenshot Website Nesa">
 </p>
 
 ## 💫 About Me
